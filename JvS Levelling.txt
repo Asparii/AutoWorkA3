@@ -1,0 +1,16 @@
+Meditate
+	 Start XP: 100.52
+	Finish XP: 101.31
+	   Gained: 0.79
+
+Swing
+	 Start XP: 101.31
+	Finish XP: 102.35
+	   Gained: 1.04
+
+
+
+Meditate Func (Swing/Meditate)
+	 Start XP: 290.28
+	Finish XP: 296.81
+	   Gained: 6.67
